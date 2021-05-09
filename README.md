@@ -34,27 +34,27 @@
 A simple website to surprise my father.
 His birthday is on 10th of May.
 
-### Inspirations
+## Inspirations
 * www.albinotonnina.com
 * www.w3schools.com
 * https://youtu.be/BZqzhmlTkAc
-* 
-### Built With
+
+## Built With
 
 * Html
 * CSS
 * Javascript
 
-### What you learned (languages and tech tools)
+## What you learned (languages and tech tools)
 * Some basics of web development.(Yes , this is my one of the first ever websites.)
 * Getting familiar with GitHub.
 
 
 
-### Challenges you faced
+## Challenges you faced
 * Using Github and Git was the biggest challenge
 
-### Future Improvements
+## Future Improvements
 * A lot of improvements and changes will be coming soon. So ,stay tuned ;).
 
 ## Usage
