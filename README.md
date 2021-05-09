@@ -1,3 +1,4 @@
+### 𝐇𝐞𝐥𝐥𝐨 Everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -40,10 +41,11 @@ His birthday is on 10th of May.
 * https://youtu.be/BZqzhmlTkAc
 
 ## Built With
-
-* Html
-* CSS
-* Javascript
+![HTML](https://img.shields.io/badge/Html-HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-CSS-lightblue)
+![JavaScript](https://img.shields.io/badge/JS-JS-yellow)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ## What you learned (languages and tech tools)
 * Some basics of web development.(Yes , this is my one of the first ever websites.)
