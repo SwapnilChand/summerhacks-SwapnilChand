@@ -1,2 +1,2 @@
-# summerhacks-projectName
+
 Happy Birthday :)
