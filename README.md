@@ -13,21 +13,17 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#inspirations">Inspirations</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
-    </li>
+   <li><a href=" What you learned (languages and tech tools)">What you learned (languages and tech tools)</a></li>
+     <li><a href="Challenges you faced">Challenges you faced</a></li>
+    <li><a href="Future Improvements">Future Improvements</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    
   </ol>
 </details>
 
@@ -38,14 +34,28 @@
 A simple website to surprise my father.
 His birthday is on 10th of May.
 
+###Inspirations
+* www.albinotonnina.com
+* www.w3schools.com
+* https://youtu.be/BZqzhmlTkAc
+* 
 ### Built With
 
-* [Html]
-* [CSS]
-* [Javascript]
+* Html
+* CSS
+* Javascript
+
+###What you learned (languages and tech tools)
+* Some basics of web development.(Yes , this is my one of the first ever websites.)
+* Getting familiar with GitHub.
 
 
 
+###Challenges you faced
+* Using Github and Git was the biggest challenge
+
+###Future Improvements
+* A lot of improvements and changes will be coming soon. So ,stay tuned ;).
 
 ## Usage
 I will be working further on this project and try to make this better so that you give a nice present to your loved ones too.
