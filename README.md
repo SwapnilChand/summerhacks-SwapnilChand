@@ -18,9 +18,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-   <li><a href=" What you learned (languages and tech tools)">What you learned (languages and tech tools)</a></li>
-     <li><a href="Challenges you faced">Challenges you faced</a></li>
-    <li><a href="Future Improvements">Future Improvements</a></li>
+   <li><a href="what-you-learned-(languages-and-tech-tools)">What you learned (languages and tech tools)</a></li>
+     <li><a href="challenges-you-faced">Challenges you faced</a></li>
+    <li><a href="future-improvements">Future Improvements</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
